@@ -1,0 +1,7 @@
+qsim
+qchem
+batteries
+climate
+drug discovery
+medicine
+cryptography
